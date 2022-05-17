@@ -1,14 +1,7 @@
-# Welcome to your CDK TypeScript project
+# Multi Environment CDK project Template
 
-This is a blank project for CDK development with TypeScript.
+This is a template repository which provides a CDK project structure to build and deploy CDK stacks to multiple AWS environments.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Please take a look at below video where I explained how to deploy CDK projects to multiple AWS environments.
 
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
+https://youtu.be/H7Ynxkk_jss
